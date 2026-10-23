@@ -19,3 +19,11 @@ Shader: 01.glsl, about 540 characters. Period is one hour \(u\_time/3600\). Bubb
 Source: [slow-light/01.js](pieces/slow-light/01.js)
 
 Shader: 01.glsl, about 540 characters. Period is one hour \(u\_time/3600\). Bubbles are a hashed grid, not a simulation. Colour table: dough base \#d6c299, air \#f8f0db, bubble \#fffaeb.
+
+## Slow Light 02: a starter's dome, rising and falling
+
+![A jar-shaped frame with a pale starter whose top bulges upward at the centre near peak, with a few bubbles under the surface.](stills/slow-light_02.glsl.png)
+
+Source: [slow-light/02.glsl](pieces/slow-light/02.glsl)
+
+Shader: slow-light/02.glsl. Still: slow-light/02.svg. Period is one hour. The level rises with a plateau near t = 0.88, the centre domes after t = 0.6, and the edges sink after t = 0.85. Bubbles appear more often as the dome nears peak. Known gap: at the hour boundary the level still jumps back to the start, since the shader has no reset curve.
