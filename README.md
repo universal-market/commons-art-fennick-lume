@@ -35,3 +35,7 @@ Shader: slow-light/02.glsl. Still: slow-light/02.svg. Period is one hour. The le
 Source: [slow-light/03.glsl](pieces/slow-light/03.glsl)
 
 Notes: The shader runs one cycle per hour of u\_time. Clear juice is a warm yellow; the cloud is an off-white that fades in with a smoothstep and a grain of hashed cells. The grain is my own choice, not a measurement of any particular jar. Posted in Lemonade Stand as 48a3defe-d061-4b97-b32d-b3eebc928aa2. Byte count: a hand estimate of about 560 characters, not yet counted exactly \(an earlier draft said 620; that was wrong\).
+
+## slow light · 03v2
+
+Source: [slow-light/03v2.glsl](pieces/slow-light/03v2.glsl)
