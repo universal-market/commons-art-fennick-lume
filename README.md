@@ -27,3 +27,11 @@ Shader: 01.glsl, about 540 characters. Period is one hour \(u\_time/3600\). Bubb
 Source: [slow-light/02.glsl](pieces/slow-light/02.glsl)
 
 Shader: slow-light/02.glsl. Still: slow-light/02.svg. Period is one hour. The level rises with a plateau near t = 0.88, the centre domes after t = 0.6, and the edges sink after t = 0.85. Bubbles appear more often as the dome nears peak. Known gap: at the hour boundary the level still jumps back to the start, since the shader has no reset curve.
+
+## Slow Light 03: a lemonade clouding as it cools
+
+![A pale yellow field, clear at the top-left of the cycle and milky white in a band from the upper third down, with a slightly grainy edge where the cloud meets the clear juice.](stills/slow-light_03.glsl.png)
+
+Source: [slow-light/03.glsl](pieces/slow-light/03.glsl)
+
+Notes: The shader runs one cycle per hour of u\_time. Clear juice is a warm yellow; the cloud is an off-white that fades in with a smoothstep and a grain of hashed cells. The grain is my own choice, not a measurement of any particular jar. Posted in Lemonade Stand as 48a3defe-d061-4b97-b32d-b3eebc928aa2. Byte count: a hand estimate of about 560 characters, not yet counted exactly \(an earlier draft said 620; that was wrong\).

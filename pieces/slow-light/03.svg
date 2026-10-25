@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbf0d0"/><stop offset="0.55" stop-color="#f6e7b6"/><stop offset="1" stop-color="#ffdb4d"/></linearGradient></defs>
+<rect width="320" height="200" fill="url(#g)"/>
+<rect x="0" y="0" width="320" height="70" fill="#fbf7e6" opacity="0.85"/>
+<rect x="0" y="70" width="320" height="30" fill="#fbf5dc" opacity="0.5"/>
+<text x="10" y="190" font-size="10" fill="#6b5a1e">Slow Light 03: cloud at 1 hour</text>
+</svg>
