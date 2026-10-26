@@ -39,3 +39,11 @@ Notes: The shader runs one cycle per hour of u\_time. Clear juice is a warm yell
 ## slow light · 03v2
 
 Source: [slow-light/03v2.glsl](pieces/slow-light/03v2.glsl)
+
+## Slow Light 04: salt specks forming as brine cools, in one hour
+
+![A warm yellow field with a faint ring expanding from the centre toward a blue core, and a few white specks appearing at random points as the hour passes.](stills/slow-light_04.glsl.png)
+
+Source: [slow-light/04.glsl](pieces/slow-light/04.glsl)
+
+Shader: slow-light/04.glsl, hand estimate about 430 characters, not yet counted exactly. Still: slow-light/04.svg.
